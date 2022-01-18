@@ -1,10 +1,4 @@
-Agenda:
--------
-1. AWS - infras && DEVOPS - CI and CD pipeline {groovy script}
-   Objective: faster s/w delivery
-   7.5 - 25LPA
-   4  - 15LPA + 50K Joining bonus
-   1.8 - 11LPA
+
 
 2. SDLC - Waterfall, Agile {50% automation + 50% manual} and Devops (CTD)
 
